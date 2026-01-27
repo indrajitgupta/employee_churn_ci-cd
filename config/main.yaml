@@ -1,0 +1,38 @@
+defaults:
+  - process: process2
+  - model: model1
+  - _self_
+
+raw: 
+  path: data/raw/Employee.csv
+
+processed:
+  dir: data/processed
+  X_train: 
+    name: X_train.csv
+    path: ${processed.dir}/${processed.X_train.name}
+  X_test:
+    name: X_test.csv
+    path: ${processed.dir}/${processed.X_test.name}
+  y_train: 
+    name: y_train.csv
+    path: ${processed.dir}/${processed.y_train.name}
+  y_test:
+    name: y_test.csv
+    path: ${processed.dir}/${processed.y_test.name}  
+
+final:
+  dir: data/final
+  name: final.csv
+  path: ${final.dir}/${final.name}
+
+model:
+  dir: models
+  name: xgboost
+  path: ${model.dir}/${model.name}
+
+
+#mlflow_tracking_ui: https://dagshub.com/indrajitinfygupta/my-first-repo.mlflow
+mlflow_tracking_ui: file:\\\C:\Users\indra\Desktop\MLOps_Udemy_Support_Docs\Entrega\15_End-to-end_MLOps_Project\ml_runs
+mlflow_USERNAME: indrajitinfygupta
+mlflow_PASSWORD: d9c3deb4eb7c8cb0a4c6570b5c4db475f9d725f0

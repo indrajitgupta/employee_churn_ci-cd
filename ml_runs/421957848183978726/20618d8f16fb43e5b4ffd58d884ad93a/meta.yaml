@@ -1,0 +1,14 @@
+artifact_uri: file:\\\C:\Users\indra\Desktop\MLOps_Udemy_Support_Docs\Entrega\15_End-to-end_MLOps_Project\ml_runs/421957848183978726/20618d8f16fb43e5b4ffd58d884ad93a/artifacts
+end_time: 1769518740806
+entry_point_name: ''
+experiment_id: '421957848183978726'
+lifecycle_stage: active
+run_id: 20618d8f16fb43e5b4ffd58d884ad93a
+run_name: angry-snipe-10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769518733810
+status: 3
+tags: []
+user_id: indra
