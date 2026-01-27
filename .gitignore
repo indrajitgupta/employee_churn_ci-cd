@@ -97,3 +97,4 @@ venv
 __pycache__/ 
 DATA/ 
 data/ 
+/data
