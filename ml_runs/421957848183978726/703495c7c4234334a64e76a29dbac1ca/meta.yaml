@@ -1,0 +1,14 @@
+artifact_uri: file:\\\C:\Users\indra\Desktop\MLOps_Udemy_Support_Docs\Entrega\15_End-to-end_MLOps_Project\ml_runs/421957848183978726/703495c7c4234334a64e76a29dbac1ca/artifacts
+end_time: 1769776111972
+entry_point_name: ''
+experiment_id: '421957848183978726'
+lifecycle_stage: active
+run_id: 703495c7c4234334a64e76a29dbac1ca
+run_name: wistful-sloth-277
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769776102656
+status: 3
+tags: []
+user_id: indra

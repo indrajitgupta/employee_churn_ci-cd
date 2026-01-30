@@ -1,0 +1,10 @@
+artifact_location: file:\\\C:\Users\indra\Desktop\MLOps_Udemy_Support_Docs\Entrega\15_End-to-end_MLOps_Project\ml_runs/421957848183978726/models/m-a49b0964070846bb9a8e3e72315752f4/artifacts
+creation_timestamp: 1769776103239
+experiment_id: '421957848183978726'
+last_updated_timestamp: 1769776111817
+model_id: m-a49b0964070846bb9a8e3e72315752f4
+model_type: null
+name: model
+source_run_id: 703495c7c4234334a64e76a29dbac1ca
+status: 2
+status_message: null

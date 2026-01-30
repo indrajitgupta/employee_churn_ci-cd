@@ -98,3 +98,6 @@ __pycache__/
 DATA/ 
 data/ 
 /data
+__pycache__/ 
+data/ 
+/outputs/ 

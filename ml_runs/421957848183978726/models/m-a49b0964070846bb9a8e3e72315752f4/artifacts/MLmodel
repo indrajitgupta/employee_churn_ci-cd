@@ -1,0 +1,22 @@
+artifact_path: file:\\\C:\Users\indra\Desktop\MLOps_Udemy_Support_Docs\Entrega\15_End-to-end_MLOps_Project\ml_runs/421957848183978726/models/m-a49b0964070846bb9a8e3e72315752f4/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.25
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.2.1
+mlflow_version: 3.1.4
+model_id: m-a49b0964070846bb9a8e3e72315752f4
+model_size_bytes: 18227
+model_uuid: m-a49b0964070846bb9a8e3e72315752f4
+prompts: null
+run_id: 703495c7c4234334a64e76a29dbac1ca
+utc_time_created: '2026-01-30 12:28:23.404826'
