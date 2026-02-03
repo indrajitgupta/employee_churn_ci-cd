@@ -3,11 +3,6 @@ on:
   push:
     branches:
       - main
-    paths:
-      - config/**
-      - training/**
-      - application/**
-      - .github/workflows/deploy_app.yaml
 jobs:
   deploy_app:
     name: Deploy App
